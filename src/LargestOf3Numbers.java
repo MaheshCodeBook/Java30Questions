@@ -25,7 +25,7 @@ public class LargestOf3Numbers {
         int largest1 = a>b ? a:b;
         int largest2 = c>largest1 ? c:largest1;
         System.out.println("Largest Num is: "+largest2);
-
+        //System.out.println();
 
 
 

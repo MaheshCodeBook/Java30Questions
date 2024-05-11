@@ -14,6 +14,7 @@ public class SumOfDigits {
             sum=sum+a;
         }
         System.out.println(sum);
+        //System.out.println();
 
 
 

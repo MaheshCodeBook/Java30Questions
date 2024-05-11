@@ -23,6 +23,6 @@ public class LinearSeachInArray {
         // binary appoach
         int indx= Arrays.binarySearch(arr,50);
         System.out.println("Element found at "+indx+" Index");
-
+        //System.out.println();
     }
 }

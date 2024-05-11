@@ -12,5 +12,6 @@ public class CountTheWordsInString {
             }
         }
         System.out.println(count);
+        //System.out.println();
     }
 }

@@ -15,7 +15,7 @@ public class ExtractEvenOddNumsInArray {
         }
         System.out.println(even_count);
         System.out.println(odd_count);
-
+        //System.out.println();
 
     }
 }

@@ -12,6 +12,6 @@ public class FibonacciSeries {
             n2 = sum;
 
         }
-
+        //System.out.println();
     }
 }

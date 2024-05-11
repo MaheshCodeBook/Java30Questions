@@ -19,6 +19,6 @@ public class GenerateRondomNumAndString {
         String rand_str = RandomStringUtils.ALphabetic(5);
         System.out.println(rand_str);   */
 
-
+        //System.out.println();
     }
 }

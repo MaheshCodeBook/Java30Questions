@@ -31,6 +31,6 @@ public class EvenAndOddCount {
 
         System.out.println("Even number count: "+evenCount);
         System.out.println("Odd number count: "+oddCount);
-
+        //System.out.println();
     }
 }

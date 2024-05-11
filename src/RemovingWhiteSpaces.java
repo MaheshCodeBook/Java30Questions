@@ -9,6 +9,6 @@ public class RemovingWhiteSpaces {
        // str = str.replaceAll("[a-z]","");
         str = str.replaceAll("\\s","");
         System.out.println(str);
-
+        //System.out.println();
     }
 }

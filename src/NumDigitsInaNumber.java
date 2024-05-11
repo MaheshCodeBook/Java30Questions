@@ -12,5 +12,6 @@ public class NumDigitsInaNumber {
             numCount++;  // 1
         }
         System.out.println("Number if digits in a given numver:"+numCount);
+        //System.out.println();
     }
 }

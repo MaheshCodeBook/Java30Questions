@@ -9,7 +9,7 @@ public class ReverseANumber {
        /* StringBuffer sb = new StringBuffer(String.valueOf(num));
         StringBuffer rev = sb.reverse();
         System.out.println(rev); */
-
+        //System.out.println();
 
        String newStr = "";
        String strNum = String.valueOf(num);

@@ -16,7 +16,7 @@ public class swap2nums {
         b=z;
         System.out.println("a:"+a);
         System.out.println("b:"+b);   */
-
+        //System.out.println();
 
        a = a*b;
        b = a/b;

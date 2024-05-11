@@ -11,6 +11,7 @@ public class SumOfElementsInArray {
          sum = sum+element;
      }
         System.out.println(sum);
+        //System.out.println();
 
 
     }

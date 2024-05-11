@@ -10,7 +10,7 @@ public class DuplicateElementsInArray {
             hset.add(element);
         }
         System.out.println(hset);
-
+        //System.out.println();
 
 
 

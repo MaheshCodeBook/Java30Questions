@@ -9,7 +9,6 @@ public class RemoveSpecialChar {
         String ac = "mahesh babu swathi";
         ac = ac.replace("babu","Mokshith");
         System.out.println(ac);
-
-
+        //System.out.println();
     }
 }

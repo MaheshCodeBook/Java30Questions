@@ -16,5 +16,6 @@ public class PalindromeNumber {
         }else {
             System.out.println("Not a pakindrome number");
         }
+        //System.out.println();
     }
 }

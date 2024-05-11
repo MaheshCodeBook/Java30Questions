@@ -28,7 +28,7 @@ public class MaxandMinInArray {
         System.out.println("max num in array: "+min);
 
 
-
+        //System.out.println();
 
 
 

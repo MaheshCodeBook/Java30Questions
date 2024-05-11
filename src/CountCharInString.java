@@ -9,6 +9,7 @@ public class CountCharInString {
 
         int lenOfString = str.replaceAll("\\s","").length();
         System.out.println(lenOfString);
+       //System.out.println();
 
 
 

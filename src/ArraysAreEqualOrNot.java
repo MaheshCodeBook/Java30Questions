@@ -12,6 +12,6 @@ public class ArraysAreEqualOrNot {
             System.out.println("Arrays are NOT equal");
         }
 
-
+        //System.out.println();
     }
 }
